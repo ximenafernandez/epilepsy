@@ -1,4 +1,4 @@
-# Topological analysis of epilepsy 
+# Topological analysis of epileptic seizures 
 
 We perform the the analysis of the recording of the preictal and ictal states of patients CC, MAC y RAO (data from Western Toronto Hospital). We use techniques derived from Topological Data Analysis and Dynamics.
 
